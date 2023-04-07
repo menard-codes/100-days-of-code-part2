@@ -22,8 +22,8 @@ CSS is always a problem to me, so I decided to take the time to really be good a
 
 ## Timeframe
 
-- **Start Date:** April 4, 2023 (Tuesday)
-- **End Date:** July 13, 2023 (Thursday)
+- **Start Date:** April 7, 2023 (Tuesday)
+- **End Date:** July 16, 2023 (Thursday)
 
 ## Goals
 
