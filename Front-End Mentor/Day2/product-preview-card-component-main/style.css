@@ -92,6 +92,7 @@ main {
 @media (min-width: 640px) {
   main {
     max-width: 600px;
+    max-height: 450px;
     flex-direction: row;
   }
 }
