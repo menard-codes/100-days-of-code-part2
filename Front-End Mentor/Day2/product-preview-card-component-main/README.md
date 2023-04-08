@@ -41,7 +41,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Product preview card component solution](https://100-days-of-code-part2.vercel.app/)
+- Live Site URL: [Product preview card component solution](https://product-preview-card-component-menard.vercel.app/)
 
 ## My process
 
