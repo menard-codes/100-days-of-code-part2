@@ -26,7 +26,9 @@ Users should be able to:
 
 #### Demo
 
-![Demo Active State](./ReadMeAssets/Demo-active-state.gif)
+<div style="max-width: 720px;">
+  <img src="./ReadMeAssets/Demo-active-state.gif" />
+</div>
 
 #### Desktop
 
