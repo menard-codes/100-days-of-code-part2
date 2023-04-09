@@ -26,9 +26,7 @@ Users should be able to:
 
 #### Demo
 
-<video width="1920px" height="968px" controls>
-  <source src="./ReadMeAssets/Demo-active-state.mov" />
-</video>
+![Demo Active State](./ReadMeAssets/Demo-active-state.gif)
 
 #### Desktop
 
