@@ -40,7 +40,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [NFT preview card component solution](https://nft-preview-card-component-solution-kappa.vercel.app/)
 
 ## My process
 
